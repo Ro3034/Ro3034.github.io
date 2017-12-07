@@ -7,12 +7,12 @@ permalink: /travel/
 Voici les liens vers l'hébergement des photos.
 
 <h1>RUSSIE</h1>
-<h2> <a href='https://photos.app.goo.gl/9O8f1j0L4XhwBcBj2'> --Moscou</a> </h2>
-<h2>  <a href='https://photos.app.goo.gl/ByaexQGwKol17AKx2'>--Iekaterinburg</a></h2>
-<h2>  <a href='https://photos.app.goo.gl/0goqI245gjwng8xk1'>--Novossibirsk</a></h2>
-<h2>  <a href='https://photos.app.goo.gl/vWfrAUMnpkqHQWQJ3'>--Transiberien</a></h2>
-<h2>  <a href='https://photos.app.goo.gl/1Tht7ubjRryeDOdt2'>--Olkhon Island/Baikal</a></h2>
-<h2>  <a href='https://photos.app.goo.gl/M0LbOUMuP74ceI7C2'>--Ulan Ude</a></h2>
+<h2> <a href='https://photos.app.goo.gl/9O8f1j0L4XhwBcBj2' target="_blank"> --Moscou</a> </h2>
+<h2>  <a href='https://photos.app.goo.gl/ByaexQGwKol17AKx2' target="_blank">--Iekaterinburg</a></h2>
+<h2>  <a href='https://photos.app.goo.gl/0goqI245gjwng8xk1' target="_blank">--Novossibirsk</a></h2>
+<h2>  <a href='https://photos.app.goo.gl/vWfrAUMnpkqHQWQJ3' target="_blank">--Transiberien</a></h2>
+<h2>  <a href='https://photos.app.goo.gl/1Tht7ubjRryeDOdt2' target="_blank">--Olkhon Island/Baikal</a></h2>
+<h2>  <a href='https://photos.app.goo.gl/M0LbOUMuP74ceI7C2' target="_blank">--Ulan Ude</a></h2>
 
 <h1>MONGOLIE</h1>
 <h2>Ulan Bator</h2>
