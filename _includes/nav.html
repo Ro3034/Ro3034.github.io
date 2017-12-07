@@ -1,0 +1,23 @@
+ <!--<nav>
+      <a href="{{ site.baseurl }}/">Accueil/Home</a>
+      <a href="{{ site.baseurl }}/travel">Carnet de voyages/Travel diary</a>
+      <a href="{{ site.baseurl }}/tech">Tech</a>
+      <a href="{{ site.baseurl }}/about">A propos/About</a>
+ </nav>-->
+
+ <nav>
+ 	<div class="menu-navigation-container">
+ 		<ul id="main-nav" style="float: right; display: block;">
+		{% for menu-it in site.data.nav %}
+  			<li>
+  				<a href="{{ site.baseurl }}/{{ menu-it.url }}">
+      			<strong>{{ menu-it.title_Fr }}
+      			<p><span style="font-family: verdana, geneva; font-size: 10pt; color: rgb(153, 153, 153); display: block;"> {{ menu-it.title_EN }}</span></p>
+      			</strong>
+    			</a>
+  			</li>
+		{% endfor %}
+		</ul>
+  </div>
+ </nav>
+

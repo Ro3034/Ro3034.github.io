@@ -1,0 +1,28 @@
+
+<div class="wrapper-masthead">
+
+   {% include nav-icon.html %}
+
+  <div class="container">   
+
+    <header class="masthead clearfix">
+
+      <a  href="{{ site.baseurl }}/"><img class="site-avatar" src="{{ "/images/pic-of-me.jpg" | prepend: site.baseurl }}" border="0" alt="[name]" /> </a>
+
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
+
+    {% include nav.html %}
+
+    </header>
+
+    {% if page.layout == 'index' %}
+     {% include tripline_maps.html %}
+    {% endif %}
+   
+  </div>
+
+
+</div>

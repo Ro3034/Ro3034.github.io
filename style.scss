@@ -163,23 +163,6 @@ img {
   }
 }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
 .site-info {
   float: left;
 
@@ -282,6 +265,91 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+//custom menu horizontal
+ul#main-nav { 
+width : 600px; 
+height : 30px;
+margin : 2em 0 0 0;
+padding : 0;
+list-style-type : none; 
+}
+
+ul#main-nav li {
+padding : 0 0.5em;  
+line-height : 6px;
+}
+
+ul#main-nav {
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ }
+
+li {
+ margin-left:2px;
+ float:left; /*pour IE*/
+ }
+
+// social media and search icon container within main menu
+.iconnav{
+
+    // hide some of the icons once there is not enough space
+    @media screen and (max-width: 368px){
+        .tumblr,
+        .instagram,
+        .twitter,
+        .youtube {
+            display: none;
+        }
+    }
+
+    ul{
+        list-style: none;
+
+        li{
+            list-style: none;
+            display: inline-block;
+
+            a{
+                padding: 0 3px;
+            }
+        }
+    }
+}
+//
+
+//
+ .site-avatar {
+        float: left;
+        transition-property: margin;
+        transition-duration: 0.3s;
+        transition-timing-function: ease-in-out;
+        border-radius: 100%;
+        overflow: hidden;
+        margin-right: 30px;
+        border: 3px solid #fff;
+        width: 70px;
+        height: 80px;
+    }
+
+ @media only screen and (max-width : 500px) {
+        .site-avatar { margin-right: 20px; }
+    }
+
+    @media only screen and (max-width : ($about-width + 10px)) {
+        .site-avatar{
+            float: none;
+            text-align: center;
+        }
+
+        .site-avatar {
+            margin: 0;
+            width: $about-avatar-shrunk-width;
+            height: $about-avatar-shrunk-height;
+        }
+    }
+//
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

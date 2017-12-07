@@ -25,3 +25,10 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// .about
+$about-width: 30px !default;
+
+// .about-avatar
+$about-avatar-shrunk-width: 30px !default;
+$about-avatar-shrunk-height: $about-avatar-shrunk-width !default;
