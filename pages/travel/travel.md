@@ -2,6 +2,7 @@
 layout: page
 title: Travel diary
 permalink: /travel/
+comments: true
 ---
 
 Voici les liens vers l'hébergement des photos.
@@ -15,8 +16,8 @@ Voici les liens vers l'hébergement des photos.
 <h2>  <a href='https://photos.app.goo.gl/M0LbOUMuP74ceI7C2' target="_blank">--Ulan Ude</a></h2>
 
 <h1>MONGOLIE</h1>
-<h2>Ulan Bator</h2>
-<h2>Desert de Gobi</h2>
+<h2> <a href='https://photos.app.goo.gl/64Ypk9PQ9H8t1Bi13' target="_blank">--Ulan Batoor</a></h2>
+<h2> <a href='https://photos.app.goo.gl/3bctxhm7qiyu7jJn1'  target="_blank">--Desert de Gobi</a></h2>
 <h2>Karakorum</h2>
 
 <h1>CHINE</h1>
