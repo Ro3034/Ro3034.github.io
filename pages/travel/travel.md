@@ -23,14 +23,17 @@ Voici les liens vers l'hébergement des photos.
 <h1>CHINE</h1>
 <h2> Pekin </h2>
 <h2> Luoyang (Shaolin Temple) </h2>
-<h2> Xi'an </h2>
+<h2> <a href='https://photos.app.goo.gl/8avijSbLJ2S9SIOH2' target="_blank"> Xi'an</a></h2>
 <h2> Chengdu </h2>
-<h2> Lijiang </h2>
-<h2> Shangri-la</h2>
-<h2> Dali </h2>
+<h2> <a href='https://photos.app.goo.gl/VjGhJxm32wl7ykng2' target="_blank">--Lijiang</a></h2>
+<h2> <a href='https://photos.app.goo.gl/iwF5Ge2JgLOV0ufV2' target="_blank">--Shangri-la</a></h2>
+<h2> <a href='https://photos.app.goo.gl/AylFvNNxCTeL8Zq82' target="_blank">--Dali</a></h2>
 <h2> Guilin</h2>
 <h2> Yangshuo </h2>
 
 <h1>VIETNAM</h1>
 <h2> Hanoi</h2>
 <h2> Hué </h2>
+<h2> Hoi An </h2>
+<h2> Nha Trang </h2>
+<h2> Saigon </h2>
