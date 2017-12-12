@@ -21,11 +21,11 @@ Voici les liens vers l'hébergement des photos.
 <h2> <a href='https://photos.app.goo.gl/aI05pNrnamikam3T2' target="_blank">--Karakorum</a></h2>
 
 <h1>CHINE</h1>
-<h2> Pekin </h2>
-<h2> Luoyang (Shaolin Temple) </h2>
-<h2> <a href='https://photos.app.goo.gl/8avijSbLJ2S9SIOH2' target="_blank"> Xi'an</a></h2>
-<h2> Chengdu </h2>
+<h2> <a href='https://photos.app.goo.gl/OsZ7TDgwZu6VNMbc2' target="_blank">--Beijing </a></h2>
+<h2> <a href='https://photos.app.goo.gl/49aRhMejyQzoEICM2' target="_blank">--Luoyang (Shaolin Temple) </a></h2>
+<h2> <a href='https://photos.app.goo.gl/8avijSbLJ2S9SIOH2' target="_blank">--Xi'an</a></h2>
 <h2> <a href='https://photos.app.goo.gl/VjGhJxm32wl7ykng2' target="_blank">--Lijiang</a></h2>
+<h2> <a href='https://photos.app.goo.gl/sVOdjgniMFH3YfNT2' target="_blank">--Tiger Leaping Gorge</a></h2>
 <h2> <a href='https://photos.app.goo.gl/iwF5Ge2JgLOV0ufV2' target="_blank">--Shangri-la</a></h2>
 <h2> <a href='https://photos.app.goo.gl/AylFvNNxCTeL8Zq82' target="_blank">--Dali</a></h2>
 <h2> Guilin</h2>
