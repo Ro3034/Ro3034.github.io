@@ -32,8 +32,8 @@ Voici les liens vers l'hébergement des photos.
 <h2> <a href='https://photos.app.goo.gl/gmO0aCJmecOopXXd2' target="_blank">--Yangshuo</a></h2>
 
 <h1>VIETNAM</h1>
-<h2> Hanoi</h2>
-<h2> Hué </h2>
-<h2> Hoi An </h2>
-<h2> Nha Trang </h2>
-<h2> Saigon </h2>
+<h2> <a href='https://photos.app.goo.gl/jFmTufK7KCjgw6D72' target="_blank">--Hanoi</a></h2>
+<h2> <a href='https://photos.app.goo.gl/xZbuELV9DjT7biAG2' target="_blank">--Hué</a> </h2>
+<h2> <a href='https://photos.app.goo.gl/heoeaCWZiPGDPkih2' target="_blank">--Hoi An </a></h2>
+<h2> <a href='https://photos.app.goo.gl/yrsXdaLn5ra6Ha6c2' target="_blank">--Nha Trang </a></h2>
+<h2> <a href='https://photos.app.goo.gl/9j8pNZ1djY4u2wFE3' target="_blank">--Saigon </a></h2>
