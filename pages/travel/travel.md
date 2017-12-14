@@ -28,8 +28,8 @@ Voici les liens vers l'hébergement des photos.
 <h2> <a href='https://photos.app.goo.gl/sVOdjgniMFH3YfNT2' target="_blank">--Tiger Leaping Gorge</a></h2>
 <h2> <a href='https://photos.app.goo.gl/iwF5Ge2JgLOV0ufV2' target="_blank">--Shangri-la</a></h2>
 <h2> <a href='https://photos.app.goo.gl/AylFvNNxCTeL8Zq82' target="_blank">--Dali</a></h2>
-<h2> Guilin</h2>
-<h2> Yangshuo </h2>
+<h2> <a href='https://photos.app.goo.gl/FwayGAynDOzn5qG92' target="_blank">--Guilin</a></h2>
+<h2> <a href='https://photos.app.goo.gl/gmO0aCJmecOopXXd2' target="_blank">--Yangshuo</a></h2>
 
 <h1>VIETNAM</h1>
 <h2> Hanoi</h2>
