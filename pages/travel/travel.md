@@ -37,3 +37,17 @@ Voici les liens vers l'hébergement des photos.
 <h2> <a href='https://photos.app.goo.gl/heoeaCWZiPGDPkih2' target="_blank">--Hoi An </a></h2>
 <h2> <a href='https://photos.app.goo.gl/yrsXdaLn5ra6Ha6c2' target="_blank">--Nha Trang </a></h2>
 <h2> <a href='https://photos.app.goo.gl/9j8pNZ1djY4u2wFE3' target="_blank">--Saigon </a></h2>
+
+<h1>CAMBODGE</h1>
+<h2> <a href='https://photos.app.goo.gl/l4omBhPEqIxZ5E832' target="_blank">--Phnom Penh</a></h2>
+<h2> <a href='https://photos.app.goo.gl/77H9tLKQA8CcpXs92' target="_blank">--Kep</a></h2>
+<h2> <a href='https://photos.app.goo.gl/lQtZImZdRuDadGbf2' target="_blank">--Kampot</a></h2>
+<h2>--Shianoukville</h2>
+<h2><a href='https://photos.app.goo.gl/8tCdIrungSjeJj7n2' target="_blank">--Kho Rhong Samloeum</a></h2>
+<h2><a href='https://photos.app.goo.gl/YGj4xACzIawEhfVj2' target="_blank">--Siem Reap</a></h2>
+<h2><a href='https://photos.app.goo.gl/CP7gOqfHAfItjDH73' target="_blank">--Mondulkiri - Sen Morom</a></h2>
+<h2><a href='https://photos.app.goo.gl/aQ31ySgJ2gWPmz623' target="_blank">--Raitanakiri & the jungle</a></h2>
+
+<h1>LAOS</h1>
+<h2> 4000 islands </h2>
+<h2> Pakse & Bolovens Plateau </h2>
