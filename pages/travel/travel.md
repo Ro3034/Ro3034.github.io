@@ -49,5 +49,26 @@ Voici les liens vers l'hébergement des photos.
 <h2><a href='https://photos.app.goo.gl/aQ31ySgJ2gWPmz623' target="_blank">--Raitanakiri & the jungle</a></h2>
 
 <h1>LAOS</h1>
-<h2> 4000 islands </h2>
-<h2> Pakse & Bolovens Plateau </h2>
+<h2> <a href='https://photos.app.goo.gl/qV7q65LnwLwbKiYH2' target="_blank">--4000 islands </a></h2>
+<h2> <a href='https://photos.app.goo.gl/oyGtrKnQaqt16ZiU2' target="_blank">--Bolovens Plateau </a></h2>
+<h2> <a href='https://photos.app.goo.gl/rKtAPyqbUGbXdryH2' target="_blank">--Vang Vieng </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/SXbtDQpzzvNf7Ieu1' target="_blank">--Luang Prabang </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/2Hv6zrbolrZvdilm2' target="_blank">--Le bus de l'enfer </a></h2>
+
+<h1>THAILAND</h1>
+<h2> <a  href='https://photos.app.goo.gl/OrRk7szPSrsfZHD02' target="_blank">--Chang Rai </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/lMFgrMQhIKsmmCwF2' target="_blank">--Chang Mai </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/N0gw358j748avDdx1' target="_blank">--Pai </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/HZMpazaXVniZYcaI2' target="_blank">--Mae Hong Son </a></h2>
+
+<h2> <a  href='https://photos.app.goo.gl/dTWHFXWJdZYK9IM22' target="_blank">--Bangkok </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/dHeoOu8oqphPtGCW2' target="_blank">--Koh Tao </a></h2>
+
+<h1>MYANMAR</h1>
+<h2> <a  href='https://photos.app.goo.gl/qc6A7bwluzLpwUaq2' target="_blank">--Hpa An </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/XdWw0YmrGqga5Yzv1' target="_blank">--Rangoon </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/W2Ah0KF04E5kwOai1' target="_blank">--Inle Lake </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/HKIAg0wY2CjStahg2' target="_blank">--Bagan </a></h2>
+
+<h1> JAPON </h1>
+<h2> <a  href='https://photos.app.goo.gl/' target="_blank">--Un peu de tout </a></h2>
