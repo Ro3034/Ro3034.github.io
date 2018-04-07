@@ -71,4 +71,4 @@ Voici les liens vers l'hébergement des photos.
 <h2> <a  href='https://photos.app.goo.gl/HKIAg0wY2CjStahg2' target="_blank">--Bagan </a></h2>
 
 <h1> JAPON </h1>
-<h2> <a  href='https://photos.app.goo.gl/' target="_blank">--Un peu de tout </a></h2>
+<h2> <a  href='https://photos.app.goo.gl/tEC5LxpBNKBUoQ2G2' target="_blank">--Un peu de tout </a></h2>
